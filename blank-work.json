@@ -1,0 +1,467 @@
+{
+  "formatVersion": 1,
+  "id": "blank-phone",
+  "title": "撿手機",
+  "description": "",
+  "category": "互動手機故事",
+  "cover": "",
+  "updatedAt": 1,
+  "phone": {
+    "owner": "機主",
+    "date": "2026-10-25",
+    "passcode": "",
+    "wallpaper": "apple-wwdc26",
+    "theme": "light",
+    "time": "09:41",
+    "battery": 94,
+    "network": "5G",
+    "notifications": true
+  },
+  "apps": [
+    {
+      "id": "appstore",
+      "name": "App Store",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "phone",
+      "name": "電話",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messages",
+      "name": "信息",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "photos",
+      "name": "相冊",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "notes",
+      "name": "備忘錄",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "safari",
+      "name": "瀏覽器",
+      "installed": true,
+      "visible": true,
+      "dock": true,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "settings",
+      "name": "設置",
+      "installed": true,
+      "visible": true,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "contacts",
+      "name": "通訊錄",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "camera",
+      "name": "相機",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calendar",
+      "name": "日曆",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "mail",
+      "name": "郵件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "clock",
+      "name": "時鐘",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reminders",
+      "name": "提醒事項",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "files",
+      "name": "文件",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "music",
+      "name": "音樂",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "maps",
+      "name": "地圖",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weather",
+      "name": "天氣",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wallet",
+      "name": "錢包",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "health",
+      "name": "健康",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "find",
+      "name": "查找",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "calculator",
+      "name": "計算器",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "wechat",
+      "name": "微信",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "qq",
+      "name": "QQ",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "weibo",
+      "name": "微博",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "redbook",
+      "name": "小紅書",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "douyin",
+      "name": "抖音",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "bilibili",
+      "name": "嗶哩嗶哩",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "alipay",
+      "name": "支付寶",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "taobao",
+      "name": "淘寶",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netease",
+      "name": "網易雲音樂",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "delivery",
+      "name": "外賣",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "forum",
+      "name": "論壇",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "whatsapp",
+      "name": "WhatsApp",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "instagram",
+      "name": "Instagram",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "tiktok",
+      "name": "TikTok",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "twitter",
+      "name": "X",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "telegram",
+      "name": "Telegram",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "discord",
+      "name": "Discord",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "youtube",
+      "name": "YouTube",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "line",
+      "name": "LINE",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "snapchat",
+      "name": "Snapchat",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "facebook",
+      "name": "Facebook",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "messenger",
+      "name": "Messenger",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "reddit",
+      "name": "Reddit",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "spotify",
+      "name": "Spotify",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "netflix",
+      "name": "Netflix",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "pinterest",
+      "name": "Pinterest",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "kakao",
+      "name": "KakaoTalk",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    },
+    {
+      "id": "threads",
+      "name": "Threads",
+      "installed": false,
+      "visible": false,
+      "dock": false,
+      "folder": "",
+      "icon": ""
+    }
+  ],
+  "data": {},
+  "nodes": [],
+  "variables": {},
+  "mode": "explore"
+}
