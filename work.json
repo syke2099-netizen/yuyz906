@@ -3685,10 +3685,10 @@
     },
     {
       "id": "finale-post-opened",
-      "label": "玩家點開結局貼文",
+      "label": "結局貼文解鎖後玩家開啟 Instagram",
       "type": "event",
-      "event": "variable",
-      "target": "ui:instagram:finalePostOpened",
+      "event": "openApp",
+      "target": "instagram",
       "conditions": [
         {
           "key": "unlocked:ig-thinkaboutzu-finale",
